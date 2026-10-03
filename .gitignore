@@ -1,10 +1,10 @@
-# Thư viện được cài lại bằng npm install
+# Thư viện
 node_modules/
 
-# File do Vite tạo khi chạy npm run build
+# File build
 dist/
 
-# Log và file cấu hình riêng trên máy
+# Log + cấu hình riêng
 *.log
 .env
 .env.local
